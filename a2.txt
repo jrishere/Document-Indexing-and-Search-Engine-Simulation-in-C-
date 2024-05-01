@@ -1,0 +1,3 @@
+3432 AND usc-->[1]
+all OR that-->[1, 4, 2, 5]
+rising OR season-->[3, 4]
